@@ -43,15 +43,6 @@ Collection of Python automation scripts for web interaction, data extraction, an
 * Build advanced Python automation tools
 * Learn scalable system design
 
----
-
-## 📊 GitHub Stats
-
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachinkc263\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinkc263\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📫 Connect
 
